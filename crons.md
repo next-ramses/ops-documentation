@@ -8,7 +8,7 @@ As of today crons are only supported on AWS.
 
 To list all crons:
 ```
-ops crons list
+ops cron list
 ```
 
 You need an IAM role that can assume for EventBridge Scheduler and have
